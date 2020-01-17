@@ -1,7 +1,7 @@
 # Beer-Tag Web Application
 ![Beer-Tag Logo](/Screenshots/2-beertag-logo.png)
 
-A web application with REST API for users to create and manager their own beers, as well as rate them, add them to wish & tasted-lists, and browse through all beers created by other users, and also use filtering & sorting. Users can edit or delete the beers they`ve created, as well as edit or delete their own profile. There is an admin role, which has its own Admin panel, which can edit or delete all beers and users.
+A web application with REST API for users to create and manage their own beers, as well as rate them, add them to wish & tasted-lists,  browse through all beers created by other users, and also use filtering & sorting. Users can edit or delete the beers they`ve created, as well as edit or delete their own profile. There is an admin role, which has its own Admin panel, which can edit or delete all beers and users.
 
 ***I would be happy to provide the code base upon request.***
 
@@ -15,10 +15,11 @@ A web application with REST API for users to create and manager their own beers,
 ### Used front-end technologies:
 * HTML
 * CSS
+* AJAX (through jQuery)
 * jQuery
 * JavaScript
 
-### Link to video:
+### Link to video: [https://www.youtube.com/watch?v=QdpIVD8EZ8I](https://www.youtube.com/watch?v=QdpIVD8EZ8I) 
 
 ### Screenshots:
 
